@@ -1,0 +1,12 @@
+{
+    "name": "alura/buscador",
+    "description": "Projeto de busca de cursos no site da alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Marcos Seixas",
+            "email": "seixas.developer@gmail.com"
+        }
+    ],
+    "require": {}
+}
